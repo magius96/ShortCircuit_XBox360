@@ -1,0 +1,61 @@
+﻿namespace ShortCircuit
+{
+    public enum GameFonts
+    {
+        ErrorFont,
+        MainMenuFont,
+        GameFont,
+        TitleFont,
+        CreditsFont,
+        GameStatusFont
+    }
+    public enum GameTextures2D
+    {
+        WhiteBox,
+        Cursor,
+        MainBack,
+        ButtonOn,
+        ButtonOff,
+        XBoxX,
+        XBoxA,
+        XBoxB,
+        GameButtons,
+        JGamesLogoLarge,
+        JGamesLogoSmall,
+        Instructions,
+        LevelLock
+    }
+    public enum GameSongs
+    {
+        chrushedout,
+        Conspiracy,
+        cyber,
+        Down,
+        enrolled,
+        eternal,
+        Fade,
+        findingHappiness,
+        Forget,
+        Kreepor,
+        lost,
+        Morning,
+        oncein,
+        Ooze,
+        potionshop,
+        rockout,
+        Slipped,
+        stone,
+        StreetLights,
+        temperence,
+        thahall2,
+        timefliesby,
+        TradeOff,
+        Warfield,
+        witbe
+    }
+    public enum GameSounds
+    {
+        ButtonClick,
+        ding
+    }
+}
